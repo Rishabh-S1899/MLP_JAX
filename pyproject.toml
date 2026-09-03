@@ -1,0 +1,11 @@
+[project]
+name = "mlp-jax"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jax>=0.11.1",
+    "solution>=5.4.0",
+    "werkzeug>=3.1.8",
+]
